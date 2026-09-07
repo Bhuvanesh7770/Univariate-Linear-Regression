@@ -45,7 +45,7 @@ plt.show()
 
 ## Output
 
-![1787369309159](image/README/1787369309159.png)
+[1787369309159](image/README/1787369309159.png)
 
 # Result
 
